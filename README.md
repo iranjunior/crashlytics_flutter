@@ -1,6 +1,6 @@
-# Card Glassmorphism
+# Crash e Bugs em apps flutter
 
-Esse projeto tem todo o código usado no post do instagram.
+Esse projeto tem todo o código usado neste [post do instagram](https://www.instagram.com/p/CQHgta9HhvY/).
 
 <img src="docs/preview.png" alt="capa do post" height="500">
 
